@@ -50,3 +50,4 @@ improved_test_*/
 Generated_*
 *.pdf
 
+dist/
