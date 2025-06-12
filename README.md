@@ -195,7 +195,7 @@ Production-ready microservice boilerplate
   "technical_skills": {
     "programming_languages": [
       "JavaScript",
-      "Python", 
+      "Python",
       "TypeScript",
       "Rust",
       "Go"
@@ -208,7 +208,7 @@ Production-ready microservice boilerplate
     ],
     "databases": [
       "MongoDB",
-      "PostgreSQL", 
+      "PostgreSQL",
       "Redis"
     ],
     "cloud_platforms": [
@@ -238,7 +238,7 @@ Production-ready microservice boilerplate
   },
   "architectural_patterns": [
     "Full-Stack",
-    "Microservices", 
+    "Microservices",
     "API-First"
   ],
   "top_repositories": [
@@ -351,19 +351,16 @@ The scanner automatically detects technologies based on:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Support
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Include your Ruby version and sample output
+1. Create a new issue with detailed information
+2. Include your Ruby version and sample output
 
 ---
-
-**Made with love for developers who want to showcase their GitHub contributions professionally.**
 
 ## Real Example from Your Repositories
 
